@@ -1,2 +1,2 @@
 # data_analysis
-R functions for data analysis
+Some Python functions for data analysis
